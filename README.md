@@ -1,7 +1,13 @@
 # closures-example
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This example was build to backup the wiki entry
+
+'Ember Octane Notes - Actions from component to Parent'
+
+To run this example, do the usual: ember s
+
+Then go to http://localhost:4200
+
 
 ## Prerequisites
 
