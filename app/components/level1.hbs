@@ -1,0 +1,15 @@
+<h2>Level 1</h2>
+
+Now we loop through two items:
+
+  <Level2
+    @item="1. someitem"
+    @onSelected={{this.args.onSelected}}
+    />
+
+  <Level2
+    @item="2. someOtherItem. BTW, this could be a javascript object as well"
+    @onSelected={{this.args.onSelected}}
+    />
+
+{{yield}}
